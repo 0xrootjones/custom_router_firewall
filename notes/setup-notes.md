@@ -1,6 +1,6 @@
 Custom Router & Firewall Setup Notes
 
-**This project documents the setup of a virtualized pfSense firewall with dedicated WAN/LAN interfaces and DNS-layer filtering using AdGuard Home.
+>This project documents the setup of a virtualized pfSense firewall with dedicated WAN/LAN interfaces and DNS-layer filtering using AdGuard Home.
 The goal was to create a lightweight, secure, and flexible home router setup using virtualization (Proxmox) and open-source tooling.
 
 ---
